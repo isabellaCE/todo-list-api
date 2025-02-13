@@ -4,10 +4,8 @@ Uma API simples para gerenciar uma lista de tarefas, desenvolvida em **Golang** 
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Golang** (sem o framework Gin)
+- **Golang**
 - **PostgreSQL**
-- **DBeaver** (para gerenciamento do banco de dados)
-- **Postman** (para testes de API)
 
 ## 📂 Estrutura do Projeto
 
